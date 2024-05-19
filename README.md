@@ -1,2 +1,2 @@
 # addis-career-website
-A career's website for amoragadal
+A career's website for addis
